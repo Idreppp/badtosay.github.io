@@ -199,6 +199,14 @@
 }
 /* Footer */
 
+/* PLAYER */
+.profil {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin: 10px 10px;
+}
+/* PLAYER */
+
 @media (max-width: 768px) {
   .jumbotron {
     height: 50vh; /* Tinggi jumbotron lebih kecil pada perangkat kecil */
