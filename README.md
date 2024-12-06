@@ -1,2 +1,0 @@
-# badtosay.github.io
-Website
